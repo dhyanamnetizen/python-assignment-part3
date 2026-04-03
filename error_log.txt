@@ -1,0 +1,2 @@
+[2026-04-03 13:46:57] ERROR: Attempted to divide by zero.
+[2026-04-03 13:46:57] ERROR: Tried to open a file that doesn't exist.
